@@ -30,14 +30,6 @@ A SwiftUI app that fetches and displays news articles from a public API, showcas
 * `NewsViewModel.swift`: The view model responsible for fetching and managing the news data.
 * `NetworkManager.swift`:  A singleton class for handling network requests and image loading.
 
-## Getting Started
-
-1. Clone the repository: `git clone [repository URL]`
-2. Open the project in Xcode.
-3. Obtain an API key from a news API provider (e.g., NewsAPI.org).
-4. Replace `"YOUR_API_KEY"` in `NewsViewModel.swift` with your actual API key.
-5. Build and run the app on a simulator or device.
-
 ## Future Enhancements
 
 * Search functionality to filter articles by keywords or topics.
