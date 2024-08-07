@@ -1,6 +1,6 @@
 # Apple News Feed Reader
 
-[Include a screenshot or logo of your app here]
+![News Feed App Screenshot](news_feed.png) 
 
 A SwiftUI app that fetches and displays news articles from a public API, showcasing a modern and reactive approach to iOS development.
 
